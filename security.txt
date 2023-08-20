@@ -2,4 +2,4 @@ Contact: mailto:security@raicescyber.org
 Expires: 2024-08-16T03:59:00.000Z
 Preferred-Languages: en
 Policy: https://raicescyber.org/security-policy.txt
-Canonical: https://github.com/Raices-Cyber-Org/policies/edit/main/security.txt
+Canonical: https://raw.githubusercontent.com/Raices-Cyber-Org/policies/main/security.txt
