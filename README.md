@@ -1,2 +1,1 @@
-"# security.txt" 
 # security.txt
